@@ -24,7 +24,7 @@ function Projects() {
         />
         <ProjectCard
           src={minipay}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/manmindersingh01/minipaytm"
           h3="minipay"
           p="payment app"
         />
